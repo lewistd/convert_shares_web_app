@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 https://www.npmjs.com/package/react-input-slider
 
+## React Number Input Docs
+
+https://mui.com/base-ui/react-number-input/
+
 ## Available Scripts
 
 In the project directory, you can run:
